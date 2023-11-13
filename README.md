@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish. I'm currently pursuing an MS in Statistics at the University of Washington.
-- 🌱 I’m currently learning docker, kubernetes, and implementing attention and transformer models from scratch.
+- 🌱 
 - 📫 You can reach me at danishhussain995@gmail.com
 
 <!---
